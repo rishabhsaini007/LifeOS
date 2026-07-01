@@ -1,0 +1,22 @@
+{
+  "short_name": "LifeOS",
+  "name": "LifeOS - Personal Productivity Hub",
+  "description": "Your intelligent PWA for tasks, habits, reminders, and timetables.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0a0f",
+  "theme_color": "#10b981",
+  "display": "standalone",
+  "orientation": "portrait"
+}
